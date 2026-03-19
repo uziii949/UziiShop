@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "181861200107",
+    "project_id": "uziisshop",
+    "storage_bucket": "uziisshop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181861200107:android:f06bb5d7d432a710da4eae",
+        "android_client_info": {
+          "package_name": "com.uzair.uzii_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181861200107-r6ek21hr1ii2s2meoa79n9487ijostnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uzair.uzii_shop",
+            "certificate_hash": "cd8798ccb3abd9e12a1d0ddef1cd512429351365"
+          }
+        },
+        {
+          "client_id": "181861200107-l7lgs17sja0o9v6k53jo9rfok1nb182m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGhK1p3q6R89tPaMppQ_Kjo2D9ysbRJeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181861200107-l7lgs17sja0o9v6k53jo9rfok1nb182m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
